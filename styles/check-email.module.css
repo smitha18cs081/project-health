@@ -1,0 +1,56 @@
+.check{
+    
+position: absolute;
+width: 318px;
+height: 46px;
+left: 495px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 46px;
+/* identical to box height */
+
+
+color: #212121;
+
+}
+.reset
+{
+    position: absolute;
+width: 451px;
+height: 58px;
+left: 495px;
+top: 247px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+/* or 161% */
+
+
+color: #212121;
+
+}
+.resend{
+position: absolute;
+width: 451px;
+height: 29px;
+left: 495px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height, or 161% */
+
+
+color: #212121;
+
+}

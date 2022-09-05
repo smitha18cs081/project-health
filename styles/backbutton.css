@@ -1,0 +1,31 @@
+.prevbtn {
+    position: absolute;
+    width: 54px;
+    height: 17px;
+    left: 68px;
+    top: 58px;
+}
+
+.vector {
+    position: absolute;
+    left: 4.72%;
+    right: 94.64%;
+    top: 6.56%;
+    bottom: 91.67%;
+}
+
+.backbtn {
+    position: absolute;
+    width: 34px;
+    height: 17px;
+    left: 88px;
+    top: 60px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A6A6A6;
+
+}

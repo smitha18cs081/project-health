@@ -1,0 +1,201 @@
+.login
+{
+position: absolute;
+width: 127px;
+height: 52px;
+left: 835px;
+top: 187px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 43px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #212121;
+
+}
+.email 
+{
+position: absolute;
+width: 32px;
+height: 15px;
+left: 834px;
+top: 292px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #212121;
+
+opacity: 0.4;
+}
+.password
+{
+position: absolute;
+width: 57px;
+height: 15px;
+left: 833px;
+top: 412px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #212121;
+
+opacity: 0.4;
+
+}
+.paragraph1
+{
+position: absolute;
+width: 297px;
+height: 17px;
+left: 834px;
+top: 492px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #212121;
+
+opacity: 0.4;
+}
+.login1
+{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 834px;
+    top: 561px;
+    
+    background: #D2D3D9;
+    border-radius: 6px;
+}
+.agree{
+position: absolute;
+width: 328px;
+height: 34px;
+left: 895px;
+top: 621px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #212121;
+
+}
+.forgot
+{
+    position: absolute;
+    width: 156px;
+    height: 17px;
+    left: 987px;
+    top: 693px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #1996FC;
+     
+}
+.image
+{
+position: absolute;
+width: 901px;
+height: 676px;
+left: 676px;
+top: 0px;
+background: url(/public/unsplash.jpg);
+transform: rotate(90deg);
+}
+.input1
+{
+position: absolute;
+width: 450px;
+height: 2px;
+left: 834px;
+top: 361px;
+
+background: #212121;
+opacity: 0.3;
+}
+.input2
+{
+position: absolute;
+width: 450px;
+height: 2px;
+left: 834px;
+top: 482px;
+
+background: #212121;
+opacity: 0.3;
+}
+.eyepic
+{
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 12.5%;
+bottom: 8.33%;
+margin-left: -30px;
+cursor:pointer
+/*background: #212121;*/
+}
+.forgot{
+position: absolute;
+width: 118px;
+height: 91px;
+left: 60px;
+top: 60px;
+
+}
+.logo{
+position: relative;
+width: 118px;
+height: 91px;
+left: 60px;
+top: 60px;
+
+}
+.style1
+{
+    position: absolute;
+    width: 451px;
+    height: 523px;
+    left: 833px;
+    top: 187px;
+    
+}
+.logo{
+    
+}
+
